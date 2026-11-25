@@ -6,7 +6,7 @@
 
 **Fortune Cookie for the Liquidated Trader** — one fortune-cookie line for a trader who just got liquidated. `main.ts` (Node 22, no network, no dependencies) writes the line to `/output/entry.txt` (falling back to `./output/entry.txt` when run locally).
 
-The joke lands on the one thing a liquidated trader still owns: a perfectly balanced portfolio of nothing. No leverage, no hopium, no "buy the dip" — just the cold arithmetic of zero, delivered with the fortune cookie's cheerful congratulations. The line is 76 characters and 9 words, inside the 160-character / 20-word gate.
+The joke lands on the one thing a liquidated trader still owns: a perfectly balanced portfolio of nothing. No leverage, no hopium, no "buy the dip" — just the cold arithmetic of zero, delivered with the fortune cookie's cheerful congratulations. The line is 75 characters and 9 words, inside the 160-character / 20-word gate.
 
 ## Run it
 
